@@ -14,6 +14,9 @@
 - SimpleTransformer  
   - https://github.com/ThilinaRajapakse/simpletransformers#minimal-start-for-binary-classification  
   
+- T5  
+  - - https://arxiv.org/pdf/1910.10683.pdf  
+  
 - Google Natural Language API  
   - https://cloud.google.com/natural-language/#natural-language-api-pricing  
 
