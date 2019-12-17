@@ -1,5 +1,6 @@
 ## ML Week 2019
 
+### Transformer  
 - Huggingface 
   - https://github.com/huggingface/transformers
   
@@ -15,14 +16,12 @@
   - https://github.com/ThilinaRajapakse/simpletransformers#minimal-start-for-binary-classification  
   
 - T5  
-  - - https://arxiv.org/pdf/1910.10683.pdf  
+  - https://arxiv.org/pdf/1910.10683.pdf
   
-- Google Natural Language API  
-  - https://cloud.google.com/natural-language/#natural-language-api-pricing  
-
-- Google news  
-  - https://newsapi.org/pricing  
+- Illustrated transformer, BERT, GPT-2 
+  - http://jalammar.github.io/
   
+### Variational Auto-Encoder
 - VAE  
   - https://github.com/pytorch/examples/blob/master/vae/main.py
   
@@ -33,3 +32,11 @@
     - https://openreview.net/forum?id=Sy2fzU9gl
   - Factor VAE  
     - https://arxiv.org/pdf/1802.05983.pdf  
+
+### Google Services
+- Google Natural Language API  
+  - https://cloud.google.com/natural-language/#natural-language-api-pricing  
+
+- Google news  
+  - https://newsapi.org/pricing  
+  
